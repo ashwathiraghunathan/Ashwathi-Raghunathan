@@ -1,3 +1,4 @@
+# About me
 👋 Hi, I'm Ashwathi Raghunathan
 📊 Data Analyst | 📈 Power BI | 🐍 Python | 📘 SQL | 📗 Excel | 📚 Storytelling with Data
 
