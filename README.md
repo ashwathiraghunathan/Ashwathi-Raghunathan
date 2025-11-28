@@ -1,5 +1,6 @@
 # About me
 👋 Hi, I'm Ashwathi Raghunathan
+
 📊 Data Analyst | 📈 Power BI | 🐍 Python | 📘 SQL | 📗 Excel | 📚 Storytelling with Data
 
 I am a Software Engineer professional transitioning into the field of data analytics with a strong foundation in problem-solving and analytical thinking.
@@ -49,6 +50,7 @@ C++
 🏆 Certifications
 
 Data Analytics & Python — Skillovilla (2025)
+
 🔗 https://www.skillovilla.com/certificate/346CNDUC
 
 🎓 Education
