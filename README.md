@@ -9,6 +9,7 @@ Practical experience from analytics projects and a Data Analytics certification,
 Below is a curated portfolio of my work.
 
 📂 Projects
+
 🟦 1. Funnel Analysis & Reporting - MS Excel
 
 🟨 2. Power BI Sales Performance Dashboard
