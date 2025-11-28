@@ -49,7 +49,7 @@ C++
 
 🏆 Certifications
 
-Data Analytics & Python — Skillovilla (2025)
+Data Analytics & Python — Skillovilla (Nov 2025)
 
 🔗 https://www.skillovilla.com/certificate/346CNDUC
 
